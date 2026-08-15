@@ -1,0 +1,25 @@
+{
+  "name": "com.zzamjak.colorreplace",
+  "displayName": "ColorReplace",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "description": "특정 색상 범위(HSV)를 실시간으로 교체하는 모바일 최적화 이펙트 컴포넌트입니다. SpriteRenderer와 UI Graphic(Image, RawImage)을 모두 지원하며, 텍스처 기반 Material 공유와 PropertyBlock으로 배칭을 유지합니다.",
+  "documentationUrl": "https://github.com/zzamjak-cloud/ColorReplace",
+  "changelogUrl": "https://github.com/zzamjak-cloud/ColorReplace/blob/main/CHANGELOG.md",
+  "license": "MIT",
+  "author": {
+    "name": "zzamjak",
+    "url": "https://github.com/zzamjak-cloud"
+  },
+  "dependencies": {
+    "com.unity.ugui": "2.0.0"
+  },
+  "keywords": [
+    "Color",
+    "Replace",
+    "HSV",
+    "Effect",
+    "Sprite",
+    "UI"
+  ]
+}
