@@ -196,8 +196,8 @@
       },
       "hash": "0769b1eb99878cb0b0732c608d76ff3897b4efb3"
     },
-    "com.zzamjak.uvpatternflow": {
-      "version": "file:com.zzamjak.uvpatternflow",
+    "com.zzamjak.colorreplace": {
+      "version": "file:com.zzamjak.colorreplace",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
